@@ -1,0 +1,8 @@
+.ionide/
+node_modules/
+bundle.js
+.fable/
+bin/
+obj/
+.DS_Store
+*.fs.js
